@@ -378,7 +378,7 @@ export default function LockPickingGame({ onGameComplete }: LockPickingGameProps
               >
                 <div className="w-full h-full flex">
                   <div className="w-10 h-4 bg-pink-400 rounded-l-full"></div>
-                  <div className="flex-grow h-4 bg-rose-300"></div>
+                  <div className="flex-grow h-4 bg-rose-300 rounded-r-full"></div>
                 </div>
               </div>
 
